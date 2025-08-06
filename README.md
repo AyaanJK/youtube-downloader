@@ -23,8 +23,8 @@ Downloads YouTube videos or playlists and saves to any path directory given by t
 
 ### Quick Start
 -  Install the required package:
-   pip install yt-dlp
-   Type 'python yt_downloader.py' into terminal to run
+-  pip install yt-dlp
+-  Type 'python yt_downloader.py' into terminal to run
 -  For Windows, simply double-click the .bat file
 
 <h2>Program walk-through:</h2>
