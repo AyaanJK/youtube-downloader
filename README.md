@@ -15,6 +15,10 @@ Downloads YouTube videos or playlists and saves to any path directory given by t
 - <b>Windows 11 Pro</b> (24H2)
 - <b>Visual Studio Code</b>
 
+### Requirements
+- Python 3.8 or later
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp) installed
+
 ## How to Run
 
 Follow these steps to set up and run the YouTube downloader:
@@ -27,7 +31,7 @@ Follow these steps to set up and run the YouTube downloader:
 
 • **Install required dependencies**: Install the necessary Python package by running `pip install yt-dlp` in your terminal or command prompt.
 
-• **Run the script**: Execute the program by typing `python youtube-downloader.py` (or whatever you've named your Python file) in your terminal.
+• **Run the script**: Execute the program by typing `python youtube-downloader.py` (or whatever you've named your Python file) in your terminal. Or simply double click the .bat file if on Windows.
 
 • **Enter the save location**: When prompted, type the full path where you want to save your downloaded files (e.g., `C:/Music` on Windows or `/Users/yourusername/Music` on macOS/Linux).
 
@@ -36,16 +40,6 @@ Follow these steps to set up and run the YouTube downloader:
 • **Wait for download**: The script will show download progress and automatically save the audio file to your specified location.
 
 • **Find your downloaded file**: Once complete, check the save location you specified to find your downloaded audio file.
-
-### Requirements
-- Python 3.8 or later
-- [yt-dlp](https://github.com/yt-dlp/yt-dlp) installed
-
-### Quick Start
--  Install the required package:
--  pip install yt-dlp
--  Type 'python yt_downloader.py' into terminal to run
--  For Windows, simply double-click the .bat file
 
 <h2>Program walk-through:</h2>
 
