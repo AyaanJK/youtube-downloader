@@ -17,6 +17,26 @@ Downloads YouTube videos or playlists and saves to any path directory given by t
 
 ## How to Run
 
+Follow these steps to set up and run the YouTube downloader:
+
+• **Install Python**: Make sure you have Python 3.6 or higher installed on your system. You can download it from [python.org](https://python.org).
+
+• **Clone the repository**: Download this project to your local machine by running `git clone https://github.com/AyaanJK/youtube-downloader.git` in your terminal or command prompt.
+
+• **Navigate to the project directory**: Change into the downloaded folder using `cd youtube-downloader`.
+
+• **Install required dependencies**: Install the necessary Python package by running `pip install yt-dlp` in your terminal or command prompt.
+
+• **Run the script**: Execute the program by typing `python youtube-downloader.py` (or whatever you've named your Python file) in your terminal.
+
+• **Enter the save location**: When prompted, type the full path where you want to save your downloaded files (e.g., `C:/Music` on Windows or `/Users/yourusername/Music` on macOS/Linux).
+
+• **Enter the YouTube URL**: Paste the URL of the YouTube video or playlist you want to download when prompted.
+
+• **Wait for download**: The script will show download progress and automatically save the audio file to your specified location.
+
+• **Find your downloaded file**: Once complete, check the save location you specified to find your downloaded audio file.
+
 ### Requirements
 - Python 3.8 or later
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp) installed
