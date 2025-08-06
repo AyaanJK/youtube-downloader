@@ -15,13 +15,13 @@ Downloads YouTube videos or playlists and saves to any path directory given by t
 - <b>Windows 11 Pro</b> (24H2)
 - <b>Visual Studio Code</b>
 
+## How to Run
+
 ### Requirements
 - Python 3.8 or later
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp) installed
 
-## How to Run
-
-Follow these steps to set up and run the YouTube downloader:
+####Follow these steps to set up and run the YouTube downloader:
 
 • **Install Python**: Make sure you have Python 3.6 or higher installed on your system. You can download it from [python.org](https://python.org).
 
